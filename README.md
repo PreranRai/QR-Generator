@@ -23,9 +23,12 @@ This is a web-based QR Code Generator built with HTML, CSS, and JavaScript. It a
 *Google Fonts (Poppins) – For clean and modern typography.
 
 📁 How to Use
-1.Open index.html in any browser.               
+1.Open index.html in any browser. 
+
 2.Enter a text or URL into the input field.                    
+
 3.Click "Generate".                 
+
 4.A QR code will appear instantly below.
 
 ✅ Future Enhancements (Optional Ideas)
