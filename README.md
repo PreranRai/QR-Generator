@@ -34,6 +34,8 @@ This is a web-based QR Code Generator built with HTML, CSS, and JavaScript. It a
 ✅ Future Enhancements (Optional Ideas)
 
 1.Add a download button to save the QR code as an image.
+
 2.Let users customize QR color, size, and error correction level.
+
 3.Allow logo embedding in the QR code.
 
