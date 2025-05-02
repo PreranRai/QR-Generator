@@ -1,6 +1,7 @@
 📦 QR Code Generator — Project Description
 
 🔍 Overview
+
 This is a web-based QR Code Generator built with HTML, CSS, and JavaScript. It allows users to input any text or URL and instantly generates a scannable QR code. The layout is styled using external CSS for a clean, modern look.
 
 ✨ Features
@@ -17,9 +18,13 @@ This is a web-based QR Code Generator built with HTML, CSS, and JavaScript. It a
 🛠️ Technologies Used
 
 *HTML5 – Page structure and layout.
+
 *CSS3 – Styling, responsive design, animations.
+
 *JavaScript – QR code logic and interactivity.
+
 *QRCode.js – For generating the QR code.
+
 *Google Fonts (Poppins) – For clean and modern typography.
 
 📁 How to Use
